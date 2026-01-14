@@ -4,7 +4,8 @@ local Whitelist = {
     [9192834295] = true,
     [9192867520] = true,
     [9106184130] = true,
-    [9158320663] = true
+    [9158320663] = true,
+    [10157005234] = true,
 }
 
 return Whitelist
